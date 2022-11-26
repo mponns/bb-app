@@ -1,0 +1,29 @@
+.sidebar {
+    border: 1px solid black;
+    width: 17.3rem;
+    padding-left: 3rem;
+}
+
+.logout {
+    border: 1px solid black;
+    width: 4rem;
+    margin-top: 20.4rem;
+    margin-bottom: 2rem;
+}
+
+.prof-picture {
+    padding-top: 3rem;
+    width: 30px;
+    height: 30px;
+}
+
+.welcome-text {
+    position: relative;
+    top: -1.3rem;
+}
+
+.nav-container {
+    display: grid;
+    gap: 3rem;
+    padding-top: 2rem;
+}

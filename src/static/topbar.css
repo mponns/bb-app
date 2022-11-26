@@ -1,0 +1,21 @@
+.topbar {
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.search {
+    height: 20px;
+}
+
+.brand-container {
+    border: 1px solid black;
+    width: 17.8rem;
+}
+
+.brand {
+    padding-left: 3rem;
+}
+
