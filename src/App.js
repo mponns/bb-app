@@ -15,7 +15,6 @@ function App() {
       <Topbar />
       <div className="main-container">
         <Sidebar />
-        <Dashboard />
       </div>
     </div>
   );

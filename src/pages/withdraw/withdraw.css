@@ -1,0 +1,38 @@
+.withdraw {
+    background-color: #18191d;
+    width: 100%;
+    text-align: center;
+    padding-top: 10%;
+    border-radius: 1rem;
+}
+
+.withdraw-account {
+    background-color: #18191d;
+}
+
+.withdraw > div > h1 {
+    background-color: #18191d;
+    color: #dddddd;
+}
+
+.withdraw > div > p {
+    background-color: #18191d;
+    color: #6d6e70;
+}
+
+.withdraw-details {
+    background-color: #18191d;
+    display: grid;
+    justify-content: center;
+}
+
+.withdraw > div > input {
+    width: 10rem;
+    height: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.withdraw > div > button {
+    width: 10.5rem;
+    height: 1.5rem;
+}

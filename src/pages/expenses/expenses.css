@@ -1,0 +1,42 @@
+.budget {
+    background-color: #18191d;
+    color: #dddddd;
+    width: 100%;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+.budget-info {
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+}
+
+.income-form, .expenses-form {
+    display: grid;
+}
+
+.transaction-history {
+    display: flex;
+    padding-top: 2rem;
+}
+
+.income-transactions, .expenses-transactions {
+    width: 50%;
+}
+
+.income-transactions {
+    border-right: 1px solid white;
+}
+
+.income-table, .expenses-table {
+    display: flex;
+    justify-content: center;
+    gap: 15rem;
+}
+
+.income-entered, .expenses-entered {
+    display: flex;
+    justify-content:center;
+    gap: 17rem;
+}

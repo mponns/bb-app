@@ -1,0 +1,38 @@
+.deposit {
+    background-color: #18191d;
+    width: 100%;
+    text-align: center;
+    padding-top: 10%;
+    border-radius: 1rem;
+}
+
+.deposit-account {
+    background-color: #18191d;
+}
+
+.deposit > div > h1 {
+    background-color: #18191d;
+    color: #dddddd;
+}
+
+.deposit > div > p {
+    background-color: #18191d;
+    color: #6d6e70;
+}
+
+.deposit-details {
+    background-color: #18191d;
+    display: grid;
+    justify-content: center;
+}
+
+.deposit > div > input {
+    width: 10rem;
+    height: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.deposit > div > button {
+    width: 10.5rem;
+    height: 1.5rem;
+}
